@@ -1,2 +1,2 @@
 # demoAgentes
-Ejemplos de aplicación de TF-Agents y AlphaZero
+Ejemplos de aplicación de Reinforment Learning usando Q-Learning, TF-Agents (DQN) y AlphaZero
